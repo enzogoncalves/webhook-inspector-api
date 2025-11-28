@@ -1,0 +1,1 @@
+- react-resizable-panels (cria uma sidebar redimensonáveis)
