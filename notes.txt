@@ -1,1 +1,3 @@
 - react-resizable-panels (cria uma sidebar redimensonáveis)
+- taiwind-variants (it has to install tailwind-merge as well)
+- shiki -> put code blocks in the web page
